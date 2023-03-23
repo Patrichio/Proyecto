@@ -1,5 +1,5 @@
 body{
-    background-image: url(/Imagenes.html/fondoBandana.jpg);
+    background-image: url(/Imagenes.html/fondoIdentificaciones.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: center;
@@ -7,7 +7,7 @@ body{
     background-attachment: fixed;
 }
 
-.barramenubandana{
+.barramenuidentificacione{
     background: #a7d6ff;
     border: 1px ridge #a7d6ff;
     position: absolute;
