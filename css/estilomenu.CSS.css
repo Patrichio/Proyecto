@@ -8,11 +8,21 @@ body{
 
 }
 
+.logoimg{
+    width: 125px ;
+    height: 125px;
+    z-index: 1;
+    top: 1%; right: 44%;
+    position: relative;
+
+
+}
+
 
 .boton1{
 
     color: white;
-    position: absolute; top: 11%; right: 46%;
+    position: absolute; top: 11%; right: 52%;
     border: 2px solid #000; /*anchura, estilo y color borde*/
     padding: 10px; /*espacio alrededor texto*/
     background-color: #2e518b; /*color botón*/
@@ -23,10 +33,11 @@ body{
     z-index: 1;
         
 }
+
 .boton2{
 
     color: white;
-    position: absolute; top: 11%; right: 33%;
+    position: absolute; top: 11%; right: 42%;
     border: 2px solid #000; /*anchura, estilo y color borde*/
     padding: 10px; /*espacio alrededor texto*/
     background-color: #2e518b; /*color botón*/
@@ -35,12 +46,12 @@ body{
     text-transform: uppercase; /*capitalización texto*/
     font-family: 'Helvetica', sans-serif; /*tipografía texto*/
     z-index: 1;
-        
 }
+
 .boton3{
 
     color: white;
-    position: absolute; top: 11%; right: 15%;
+    position: absolute; top: 11%; right: 27%;
     border: 2px solid #000; /*anchura, estilo y color borde*/
     padding: 10px; /*espacio alrededor texto*/
     background-color: #2e518b; /*color botón*/
@@ -48,9 +59,7 @@ body{
     text-decoration: none; /*decoración texto*/
     text-transform: uppercase; /*capitalización texto*/
     font-family: 'Helvetica', sans-serif; /*tipografía texto*/
-    z-index: 1;
-    
-    
+    z-index: 1;     
 }
 
 .barramenu{
