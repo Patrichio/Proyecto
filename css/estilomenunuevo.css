@@ -1,20 +1,3 @@
 body{
-    background-color: #AED6F1;
-}
-
-
-
-
-
-
-
-.barramenuu{
-    background: #85C1E9;
-    border: 1px ridge #000;
-    position: absolute;
-    width: 100%;
-    height: 130px;
-    top: 0%;
-    z-index: -1;
-
+    background-color: #478ec9;
 }
