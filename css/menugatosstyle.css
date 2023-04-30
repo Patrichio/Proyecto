@@ -2,7 +2,23 @@ body{
     background-color: #478ec9;
 }
 
+.bandanas{
+    text-align: center;
+    height: 450px;
 
+}
+
+.correas{
+    text-align: center;
+    height: 450px;
+
+}
+
+.identificaciones{
+    text-align: center;
+    height: 450px;
+
+}
 
 
 *{

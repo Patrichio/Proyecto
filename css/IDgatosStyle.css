@@ -2,6 +2,21 @@ body{
     background-color: #478ec9;
 }
 
+.id1{
+    text-align: center;
+    height: 450px;
+}
+
+.id2{
+    text-align: center;
+    height: 450px;
+}
+
+.id3{
+    text-align: center;
+    height: 450px;
+}
+
 
 *{
     box-sizing: border-box;
