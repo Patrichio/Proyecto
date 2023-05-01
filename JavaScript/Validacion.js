@@ -16,11 +16,6 @@ formulario.addEventListener('submit',e =>{
         enviar = true;
     }
 
-    if(nombre.value == "Victor"){
-        msjMostrar += "<br>El nombre no puede ser Victor";
-        enviar = true;
-    }
-
     var letra = nombre.value.charAt(0);
     if(!esMayuscula(letra)){
         msjMostrar += "<br>La primera letra debe ser mayúscula";

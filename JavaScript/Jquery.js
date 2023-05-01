@@ -12,10 +12,6 @@ $(document).ready(function () {
             msjMotrar += "El nombre debe tener entre 4 y 10 caracteres";
             enviar = true;
         }
-        if (nombre.trim() == "Victor") {
-            msjMostrar += "<br>El nombre no puede ser Victor";
-            enviar = true;
-        }
 
         var letra = nombre.trim().charAt(0);
         if (!esMayuscula(letra)) {
