@@ -8,8 +8,8 @@ $(document).ready(function () {
         var msjMostrar = "";
         let enviar = false;
 
-        if (nombre.trim().length < 4 || nombre.trim().length > 10) {
-            msjMotrar += "El nombre debe tener entre 4 y 10 caracteres";
+        if (nombre.trim().length < 3 || nombre.trim().length > 14) {
+            msjMotrar += "El nombre debe tener entre 3 y 14 caracteres";
             enviar = true;
         }
 
